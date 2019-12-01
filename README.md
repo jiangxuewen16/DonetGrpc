@@ -8,7 +8,7 @@
 Consul v0.7.2.6  Google.Protobuf v3.10.1  Grpc v2.25.0
 
 # .net mvc 集成实例：
-mvc启动文件 Global.asax
+//mvc启动文件 Global.asax
 public class WebApiApplication : System.Web.HttpApplication
     {
         protected void Application_Start()
